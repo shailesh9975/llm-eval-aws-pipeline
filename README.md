@@ -233,6 +233,12 @@ aws s3 cp your_eval.json \
 ---
 
 ## 📊 Evaluation Metrics
+<img width="1907" height="987" alt="image" src="https://github.com/user-attachments/assets/85138aeb-559f-40e8-a591-6c1e9c3b06bb" />
+<img width="1905" height="984" alt="image" src="https://github.com/user-attachments/assets/9699049a-ce53-450d-8061-a4a7911f1e1f" />
+<img width="1904" height="983" alt="image" src="https://github.com/user-attachments/assets/71ee3bbb-d682-49cb-a757-246cd2ffdc08" />
+<img width="1895" height="899" alt="image" src="https://github.com/user-attachments/assets/e5221227-e6cf-4fd1-8d37-9d548628e94a" />
+<img width="1894" height="904" alt="image" src="https://github.com/user-attachments/assets/f4f45ffb-0dd3-496e-b9ba-b895942e9966" />
+
 
 | Metric | Weight | Description |
 |---|---|---|

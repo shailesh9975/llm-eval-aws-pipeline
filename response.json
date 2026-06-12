@@ -1,0 +1,1 @@
+{"errorMessage": "'Records'", "errorType": "KeyError", "requestId": "23e303ec-654b-494d-bf45-6484af4e589c", "stackTrace": ["  File \"/var/task/evaluator.py\", line 120, in lambda_handler\n    record   = event[\"Records\"][0]\n"]}
